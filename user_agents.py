@@ -1,5 +1,6 @@
 import random
 
+headers_useragents = []
 # USER AGENT GENERATOR
 def useragent_list():
     global headers_useragents
