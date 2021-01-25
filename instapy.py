@@ -37,7 +37,8 @@ dict = {
     \tWELCOME TO InstaPy TOOLS
     \tλ InstaPy V.1.0
     \tλ BY Mohammad Taghizadeh (Tqzdh) 
-    \tλ Get Instagram Users Information''',
+    \tλ Get Instagram Users Information
+    \tGithub: https://github.com/M-Taghizadeh/InstaPy''',
     "Spaces": "\n",
 	"No Internet": " You Are Not Connected ",
 	"Check": "You Must Be Connected With Internet ",
@@ -62,6 +63,7 @@ dict = {
     + λ [ InstaPy V.1.0 ]
     + λ [ BY Mohammad Taghizadeh (Tqzdh) ]
     + λ [ Get Instagram Users Information ]
+    Github: https://github.com/M-Taghizadeh/InstaPy
     >>> EXIT USE : CTRL + C + ENTER\n
     ''',
 	"Target": {
